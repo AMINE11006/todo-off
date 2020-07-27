@@ -1,0 +1,11 @@
+form{
+    text-align: center;
+}
+ul{
+   list-style-type: none;
+   text-align: center;
+}
+li{
+    margin-right: 30px;
+    font-size: 30px;
+}
